@@ -1,7 +1,6 @@
 package course.java.comparator.application;
 
 import java.util.ArrayList;
-import java.util.Comparator;
 import java.util.List;
 
 import course.java.comparator.entities.Product;
